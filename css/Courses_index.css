@@ -1,0 +1,30 @@
+.continue-study {
+    height: 37px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    line-height: 37px;
+    font-size: 18px;
+    padding: 10px 10px 10px 20px
+}
+
+.wwc {
+    padding: 20px 0 35px 20px;
+    background: #fff;
+    margin-bottom: 0;
+}
+
+.leveltwo .lock {
+    margin-right: 20px;
+}
+
+.levelthree .lock {
+    margin-right: 20px;
+}
+
+.defaults {
+    cursor: pointer;
+}
+
+.swfupload {
+    float: left;
+}

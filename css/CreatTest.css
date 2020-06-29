@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    word-break: break-word;
+}
+user agent stylesheet
+div{
+    display: block;
+}
+body{
+    font: 14px/1.5 "Microsoft YaHei", Arial, Helvetica, sans-serif;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    min-height: 1000px;
+    background-color: transparent;
+}
+ol, ul {
+    list-style: none;
+}
+.noticeMain {
+    position: relative;
+    width: 860px;
+    min-height: 600px;
+    margin: 30px auto;
+    background: #FFFFFF;
+    box-shadow: 0 0 8px 0 #DADEE6;
+    border-radius: 8px;
+    padding: 0 30px 0;
+}
+.data_empty {
+    font-size: 14px;
+    color: #A8A8B3;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+    padding-top: 170px;
+}
+.Jobcontent-div {
+    margin-top: 22px;
+    padding: 10px 30px 0;
+}
+.task-ueditor textarea {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 15px 30px;
+}
+
+.Jobcontent-div .title {
+    font-size: 18px;
+    color: rgb(61, 64, 89);
+    margin-bottom: 22px;
+    line-height: 22px;
+}
+
+.detail-content-stu-update{
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,33,79,.1);
+    border-radius: 6px;
+    width: 1200px;
+    padding: 30px 0 60px;
+    margin: 87px auto 30px;
+}
+
+.detail-content .title {
+    font-size: 16px;
+    color: #3d4059;
+    letter-spacing: 0;
+}
+
+.detail-content .detail-text {
+    font-size: 16px;
+    color: #3d4059;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 32px;
+    margin-bottom: 25px;
+    max-width: 814px;
+}
+.Nextbutton-div {
+    width: 1500px;
+    text-align: center;
+    margin: 20px 0;
+}
+.Nextbutton-div span {
+    width: 140px;
+    height: 30px;
+    display: inline-block;
+}
+.Nextbutton-div .Nextbtngreen {
+    background: #5de6ca;
+    width: 70px;
+    height: 36px;
+    line-height: 32px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.Submissionbutton-div {
+    width: 840px;
+    text-align: center;
+    margin: 20px 0;
+}
+.Submissionbutton-div span {
+    width: 160px;
+    height: 40px;
+    display: inline-block;
+}
+.Submissionbutton-div .Submissionbtngreen {
+    background: #5de6ca;
+    width: 100px;
+    height: 48px;
+    line-height: 44px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.fr {
+    float: right;
+}
+.clearfix {
+    overflow: hidden;
+    zoom: 1;
+}
+.clearfix:after {
+    content: "\20";
+    display: block;
+    height: 0px;
+    clear: both;
+}

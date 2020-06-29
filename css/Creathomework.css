@@ -1,0 +1,223 @@
+.stu-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+blockquote, body, button, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, input, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+blockquote, body, button, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, i, input, legend, li, ol, p, pre, span, td, textarea, th, ul {
+    font-family: sans-serif;
+    outline: none;
+}
+a, body, dd, div, dl, dt, h1, h2, h3, h4, h5, h6, html, i, img, input, li, ol, p, span, ul {
+    margin: 0;
+    font-family: sans-serif !important;
+}
+blockquote, body, button, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, i, input, legend, li, ol, p, pre, span, td, textarea, th, ul {
+    font-family: sans-serif;
+    outline: none;
+}
+button, input, optgroup, option, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    outline: 0;
+}
+
+.clearfloat {
+    zoom: 1;
+}
+.detail-content-stu-update{
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgba(0,33,79,.1);
+    border-radius: 6px;
+    width: 1200px;
+    padding: 30px 0 60px;
+    margin: 87px auto 30px;
+}
+.detail-content .title {
+    font-size: 22px;
+    color: #3d4059;
+    letter-spacing: 0;
+}
+.detail-content .detail-text {
+    font-size: 16px;
+    color: #3d4059;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 32px;
+    margin-bottom: 25px;
+    max-width: 814px;
+}
+.Jobcontent-div {
+    margin-top: 22px;
+    padding: 10px 30px 0;
+}
+.clearfix {
+    clear: both;
+    zoom: 1;
+}
+.Uploadjoblist-div {
+    margin-top: 15px;
+}
+.clearfix:before, .clearfix:after {
+    content: '\0020';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.Jobcontent-div .title {
+    font-size: 22px;
+    color: #3d4059;
+    margin-bottom: 22px;
+    line-height: 22px;
+}
+.task-ueditor textarea {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 15px 30px;
+}
+.Submissionbutton-div {
+    width: 1140px;
+    text-align: center;
+    margin: 20px 0;
+}
+.Submissionbutton-div span {
+    width: 160px;
+    height: 44px;
+    display: inline-block;
+}
+.HomeworkAnswerFileList .file-video {
+    margin: 24px 0;
+    line-height: 42px;
+}
+.Uploadjoblist-div ul {
+    float: left;
+    width: 945px;
+    padding: 0;
+    margin: 0;
+}
+.el-dialog__wrapper {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    margin: 0;
+}
+.HomeworkAnswerFileList .yulan-dialog .el-dialog {
+    background: #eaedf5;
+    border-radius: 4px;
+    padding: 32px;
+    padding-top: 0;
+}
+.el-dialog {
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0!important;
+    position: relative;
+    margin: 0 auto 50px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,.3);
+    box-sizing: border-box;
+    width: 50%;
+}
+.el-dialog, .el-dialog__footer {
+    -webkit-box-sizing: border-box;
+}
+.HomeworkAnswerFileList .yulan-dialog .el-dialog__header {
+    padding-left: 0;
+    padding-bottom: 20px;
+}
+.el-dialog__header {
+    padding: 20px 20px 10px;
+}
+.el-dialog__header {
+    padding: 20px 20px 10px;
+}
+.HomeworkAnswerFileList .yulan-dialog .el-dialog__header .el-dialog__title {
+    font-size: 22px;
+    color: #3d4059;
+}
+.el-dialog__title {
+    line-height: 24px;
+    font-size: 18px;
+    color: #303133;
+}
+.el-dialog__headerbtn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 0;
+    background: 0 0;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    font-size: 16px;
+}
+.HomeworkAnswerFileList .yulan-dialog .el-dialog__header .el-dialog__headerbtn .el-dialog__close {
+    color: #9798a9;
+    font-size: 20px;
+    font-weight: 700;
+}
+.el-dialog .el-dialog__headerbtn .el-icon-close {
+    font-family: iconfont!important;
+    font-size: 15px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #c6c6d3;
+    font-weight: 400;
+}
+.el-dialog__headerbtn .el-dialog__close {
+    color: #9798a9;
+    font-size: 20px;
+    font-weight: 700;
+}
+.el-dialog__headerbtn .el-dialog__close {
+    color: #909399;
+}
+.Submissionbutton-div .Submissionbtngreen {
+    background: #5de6ca;
+    width: 160px;
+    height: 48px;
+    line-height: 44px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.Submissionbutton-div span {
+    width: 160px;
+    height: 44px;
+    display: inline-block;
+}
+.Uploadjobbtn-div .addattachments-btn {
+    border: 1px solid #00c896;
+    border-radius: 16px;
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    color: #00c896;
+    cursor: pointer;
+    margin-top: 3px;
+}

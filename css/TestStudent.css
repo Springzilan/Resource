@@ -1,0 +1,191 @@
+.grayBg[data-v-11c7ae5e] {
+    background: #eee;
+}
+.headerMenuOutside .headerMenuBox {
+    min-width: 1246px;
+    background: #fff;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,.1);
+    z-index: 19;
+    *border-bottom: 1px solid #ccc;
+}
+.headerMenuOutside .headerMenuBox .headerMenu {
+    width: 100%;
+    height: 60px;
+    padding-top: 14px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.headerMenuOutside .headerMenuBox .headerMenu .course_name {
+    float: left;
+    line-height: 20px;
+    border-left: 2px solid #2a2a2a;
+    padding-left: 10px;
+    margin-left: 12px;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #2a2a2a;
+    max-width: 400px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.examInfo li[data-v-11c7ae5e] {
+    width: 255px;
+    line-height: 18px;
+    height: 18px;
+    margin: 5px 0;
+    float: left;
+}
+ul li[data-v-11c7ae5e] {
+    list-style: none;
+}
+li {
+    list-style: none;
+    vertical-align: bottom;
+    list-style-type: none;
+}
+.clearfix {
+    clear: both;
+    zoom: 1;
+}
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+.myschool_ewcon[data-v-11c7ae5e] {
+    margin: 20px auto !important;
+    width: 1050px;
+    margin-top: 20px;
+    min-height: 700px;
+    font-size: 12px;
+    color: #333;
+    font-family: sans-serif;
+}
+.titOperateWrap[data-v-11c7ae5e] {
+    width: 1050px;
+    height: 60px;
+}
+element.style {
+    position: static;
+    margin-left: 0px;
+    left: 50%;
+    top: 0px;
+}
+.tit_operate_box[data-v-11c7ae5e] {
+    width: 1050px;
+    height: 60px;
+    background: #fff;
+    border-radius: 2px 2px 0 0;
+    z-index: 20;
+}
+.clearfix[data-v-11c7ae5e] {
+    zoom: 1;
+    clear: both;
+}
+.tit_operate_box h1[data-v-11c7ae5e] {
+    font-size: 14px;
+    color: #fff;
+    text-indent: 30px;
+    font-weight: 700;
+    height: 60px;
+    font-size: 18px;
+    color: #2a2a2a;
+    letter-spacing: .22px;
+    line-height: 60px;
+}
+.titleLength[data-v-11c7ae5e] {
+    max-width: 720px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+.fl[data-v-11c7ae5e] {
+    float: left;
+    display: inline;
+}
+.fl[data-v-8cf065b0] {
+    float: left;
+    display: inline;
+}
+.fl, .fr {
+    display: inline;
+}
+.fl {
+    float: left;
+}
+.mr5[data-v-11c7ae5e] {
+    margin-right: 5px;
+}
+.operateBtn_box[data-v-11c7ae5e] {
+    height: 60px;
+    line-height: 60px;
+}
+.fr[data-v-11c7ae5e] {
+    float: right;
+    display: inline;
+}
+.fr {
+    float: right;
+}
+.mr5 {
+    margin-right: 5px;
+}
+.button_sub{
+    background: #3d84ff;
+    border-radius: 14px;
+    color: #b2e0ff;
+}
+.button_sub:hover{
+    background: #00A2CA;
+}
+.nodeLab[data-v-8cf065b0] {
+    position: relative;
+    height: auto;
+    cursor: pointer;
+}
+.subject_node .label[data-v-8cf065b0] {
+    display: block;
+    width: 640px;
+    height: auto;
+    font-size: 14px;
+    color: #2a2a2a;
+    cursor: pointer;
+    line-height: 30px;
+}
+.clearfix[data-v-8cf065b0] {
+    clear: both;
+    zoom: 1;
+}
+.nodeLab .label input[data-v-8cf065b0] {
+    margin-left: 10px;
+}
+.mr30 {
+    margin-right: 30px;
+}
+.flagChecked[data-v-8cf065b0] {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.filedset {
+    border: 0;
+    vertical-align: middle;
+    -ms-interpolation-mode: bicubic;
+}
+.ABCase[data-v-8cf065b0] {
+    float: left;
+}
+.mr10 {
+    margin-right: 10px;
+}
+.examquestions-answer[data-v-8cf065b0] {
+    width: 555px;
+}

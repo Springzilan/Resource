@@ -1,0 +1,270 @@
+body {
+    line-height: 24px;
+    font: 14px sans-serif;
+    background: #f4f5f7;
+}
+body .box .nav-top {
+    height: 60px;
+    color: #3D4059;
+    background: #fff;
+    box-shadow: 0 1px 12px 0 rgba(1, 39, 78, 0.16);
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+    top: 0;
+    z-index: 9;
+}
+body .box .layui-nav {
+    background: #fff;
+}
+.assist-student-top {
+    background: #7eaeff;
+}
+.layui-nav {
+    position: relative;
+    padding: 0 20px;
+    background-color: #393D49;
+    color: #fff;
+    border-radius: 2px;
+    font-size: 0;
+    box-sizing: border-box;
+}
+body .box .layui-nav .layui-nav-item {
+    float: left;
+}
+
+.layui-nav .layui-nav-item {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 60px;
+}
+ul li {
+    list-style: none;
+}
+blockquote, body, button, dd, div, dl, dt, form, h1, h2, h3, h4, h5, h6, input, li, ol, p, pre, td, textarea, th, ul {
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body .box .layui-nav .layui-nav-item a {
+    color: #3D4059;
+    padding: 0 40px;
+}
+.layui-nav .layui-nav-item a {
+    display: block;
+    padding: 0 20px;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+}
+.layui-nav * {
+    font-size: 16px;
+}
+.item-left{
+    margin-left: 120px;
+    padding-right: 750px;
+}
+.item-right{
+    margin-left: 220px;
+}
+ul li {
+    list-style: none;
+}
+a {
+    color: #333;
+    text-decoration: none;
+}
+element.style {
+    padding: 0 40px;
+}
+body .clearfix {
+    clear: both;
+    zoom: 1;
+}
+.clearfix {
+    clear: both;
+    zoom: 1;
+}
+.assist-student {
+    width: 100%;
+    height: auto;
+}
+.assist-student .assist-student-top {
+    width: 100%;
+    height: 260px;
+    position: relative;
+    max-width: 1920px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.assist-student .assist-student-top .assist-top-con {
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 100;
+    height: 100%;
+}
+.assist-student .assist-student-top .assist-top-con .assist-course {
+    width: 720px;
+    height: 110px;
+    margin-top: 46px;
+    float: left;
+}
+.assist-student .assist-student-top .assist-top-con .assist-course .course-message {
+    width: 480px;
+    float: left;
+    height: 110px;
+    padding-left: 28px;
+    padding-top: 12px;
+    position: relative;
+}
+.assist-student .assist-student-top .assist-top-con .assist-course .course-message .course-name {
+    width: auto;
+    font-size: 24px;
+    line-height: 28px;
+    height: 56px;
+    float: left;
+    color: #fff;
+    overflow: hidden;
+    word-break: break-all;
+}
+pre {
+    white-space: pre-wrap;}
+.assist-student .assist-student-top .assist-top-con .assist-course .course-message .course-infor {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    bottom: 0;
+    font-size: 14px;
+    color: #fff;
+}
+div{
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.con-infor-top {
+    width: 100%;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 6px;
+    position: absolute;
+    bottom: 0;
+    z-index: 100;
+}
+.cit-cen {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+}
+.con-infor-top .con-btn {
+    width: auto;
+    padding: 0 16px;
+    height: 100%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #ffffff;
+    float: left;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.con-btn-active {
+    background: none;
+    position: relative;
+    border-bottom: 0;
+    font-size: 18px!important;
+}
+.assist-student .assist-student-context {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 22px;
+    position: relative;
+    z-index: 110;
+}
+.assist-student .assist-student-context .context-left {
+    width: 880px;
+    float: left;
+}
+.context-left {
+    border-radius: 5px;
+}
+.assist-student .assist-student-context .context-left .context-infor {
+    width: 100%;
+    height: auto;
+    background: #fff;
+    border-radius: 5px;
+}
+.assist-student .assist-student-context .context-left .con-infor-bot {
+    overflow: hidden;
+}
+.assist-student .assist-student-context .context-left .con-infor-bot .con-bot-study-active {
+    display: block;
+}
+.assist-student .assist-student-context .context-left .con-infor-bot .con-bot-study {
+    width: 100%;
+    height: auto;
+}
+.assist-student .assist-student-context .context-left .con-infor-bot .con-bot-study .con-study-search {
+    width: 100%;
+    height: 66px;
+    border-bottom: 1px solid #E8E8E9;
+    margin-bottom: 40px;
+    padding: 0 15px 0 42px;
+}
+.css-cen {
+    width: 95%;
+    height: 66px;
+}
+.search-box {
+    width: 220px;
+    height: 32px;
+    float: right;
+    margin-top: 20px;
+    position: relative;
+}
+.btn-search {
+    width: 28px;
+    height: 33px;
+    background: url(https://image.zhihuishu.com/zhs/ablecommons/demo/201807/166ab76….png) no-repeat center center;
+    position: absolute;
+    right: 21px;
+    background-size: 14px;
+    cursor: pointer;
+}
+.assist-student .assist-student-context .context-left .con-infor-bot .con-bot-study .con-study-search .search-box input {
+    width: 206px;
+    float: left;
+    height: 32px;
+    padding: 7px 14px;
+    line-height: 16px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border: 1px solid #D6D7E5;
+    background: #fff;
+    border-radius: 14px;
+    color: #3d4059;
+}
+input{
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    outline: 0;
+}
+.dt-name {
+    color: #777993;
+    height: 60px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.data-tree {
+    padding-left: 50px;
+    padding-right: 70px;
+}
+.con-btn a{
+    color: white;
+}
+.dt-name a{
+    font-size: 20px;
+}

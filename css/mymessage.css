@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+.header{
+    background: #faa046;
+}
+.headerMenu{
+    width: 80%;
+    margin:0 auto;
+    /*margin: 0 100px;*/
+}
+.logo{
+    float: left;
+}
+
+.back{
+    float: right;
+}
+h1{
+    background: #00A2CA;
+}

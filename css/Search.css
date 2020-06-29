@@ -1,0 +1,78 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+body{
+    background-color: #f9f7f0;
+}
+.head-warp{
+    width: 100%;
+    min-width: 1980px;
+}
+.head-top{
+    width: 100%;
+    min-width: 1180px;
+    background-color: #f0c78a;
+}
+.header-content{
+    width: 800px;
+    margin: 0 auto;
+    height: 70px;
+}
+.search{
+    width: 285px;
+    padding: 15px 0;/*上下15 左右0*/
+    margin: 0 auto;
+}
+.search-warp{
+    width: 285px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: white;
+}
+.search-keyword{
+    width: 190px;
+    height: 20px;
+    border: 0;
+    padding: 10px;
+    box-sizing: content-box;/*search框默认盒子模型是border-box border和padding算在width和height里面*/
+    margin-left: 20px;/*往右移*/
+    float: left;
+}
+.search-submit{
+    width: 50px;
+    height: 40px;
+    border-radius: 0 20px 20px 0;
+    /*background-image:url('');*/
+    background-color: #ffdc35;
+    border: 0;
+    margin-left: 5px;/*这个是上面的剪来剪去得到的*/
+}
+.header-submenu{
+    width: 100%;
+    min-width: 1180px;
+    background: white;
+}
+.header-submenu-warp{
+    width: 1180px;
+    margin: 0 auto;/*上下为0，左右自动*/
+}
+.header-submenu-list{
+    margin: 50px auto;
+}
+.header-submenu-list>li{
+    list-style: none;/*不要· */
+    margin: 15px;/*上下左右都是15*/
+    font: 18px/30px;/*字体大小，行高30*/
+}
+.header-submenu-list>li>a{
+    text-decoration: none;/*去下划线*/
+    color: #b2e0ff;
+}
+.header-submenu-list>li>a:hover{
+    color:#1ba8ed;
+}
+.clear-fix::after{
+    content:" ";
+    display: block;
+    height: 0;
+    clear: both;
+}

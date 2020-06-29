@@ -1,0 +1,56 @@
+.Uploadjobbtn-div .addattachments-btn {
+    border: 1px solid #00c896;
+    border-radius: 16px;
+    width: 120px;
+    height: 32px;
+    line-height: 32px;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    color: #00c896;
+    cursor: pointer;
+    margin-top: 3px;
+}
+i {
+    font-style: italic;
+}
+.Uploadjobbtn-div{
+    margin-top:50px;
+    margin-left:250px;
+}
+
+.el-dialog {
+    position: relative;
+    margin: 0 auto 50px;
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+    box-sizing: border-box;
+    width: 50%
+}
+
+.el-dialog__header {
+    padding: 20px 20px 10px
+}
+.el-dialog__headerbtn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 0;
+    background: 0 0;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    font-size: 16px
+}
+.el-dialog__headerbtn .el-dialog__close {
+    color: #909399
+}
+.el-dialog__headerbtn:focus .el-dialog__close, .el-dialog__headerbtn:hover .el-dialog__close {
+    color: #409eff
+}
+.el-dialog__title {
+    line-height: 24px;
+    font-size: 18px;
+    color: #303133
+}

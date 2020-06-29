@@ -1,0 +1,60 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+/* CSS Document */
+.fl-leftSide{margin:60px;width:15%;background:#f9f9f9;float: left}
+.personalInfor{height:165px;background: #faf7f5 bottom center;padding-top:15px;text-align:center}
+.headPortrait{display:block;width:80px;height:80px;border-radius:100%;overflow:hidden;margin:0 auto;}
+.personalName{font-size:18px;height:44px;line-height:44px}
+.manageBtn{text-decoration: none;/*去下划线*!*/display:inline-block;width:130px;height:26px;border-radius:20px;background:#faa046;line-height:26px;color:#fff;font-size:14px}
+.manageBtn:hover{background:#faac5f;color:#fff;}
+.funclistul{margin-top:20px}
+.funclistul li{min-height:41px;overflow:hidden;position: relative;margin: 20px}
+.funclistul li span{display:inline-block;margin: 11px;float:left}
+.funclistul li a{text-decoration: none;/*去下划线*!*/display:block;width:100px;margin-left:10px;float:left;min-height:40px;font-size:14px;color:#4c4c4c}
+.funclistul li a:hover{color:#0099ff;}
+.message-change{width: 70%;float: left;margin: 40px 0;}
+.setmain h3 {
+    font-size: 24px;
+    font-weight: normal;
+    padding-bottom: 15px;
+    _padding-bottom: 7px;
+    border-bottom: 1px solid #bbbbbb;
+    height: 33px;
+    line-height: 60px;
+}
+.setlistlink{
+    margin-top: 15px;
+}
+.setlistlink>a{
+    color: black;
+    text-decoration: none;
+}
+.setlistlink a.cur {
+    background-color: #0099ff;
+    color: #fff;
+    padding: 0 1px;
+}
+.setlistlink>a:hover{
+    color: #bdbdbd;
+}
+
+.setlist {
+    border-bottom: 1px dashed #CCCCCC;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.setlist ul {
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+.setlist li.setname {
+    float: left;
+    line-height: 24px;
+}
+.setlist .organization span {
+    font-size: 16px;
+    color: #999999;
+    line-height: 24px;
+}

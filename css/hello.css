@@ -1,0 +1,15 @@
+@charset "utf-8";
+*{margin: 0;padding: 0;}
+/* CSS Document */
+.fl-leftSide{margin:60px;width:15%;background:#f9f9f9;float: left}
+.personalInfor{height:165px;background: #faf7f5 bottom center;padding-top:15px;text-align:center}
+.headPortrait{display:block;width:80px;height:80px;border-radius:100%;overflow:hidden;margin:0 auto;}
+.personalName{font-size:18px;height:44px;line-height:44px}
+.manageBtn{text-decoration: none;/*去下划线*!*/display:inline-block;width:130px;height:26px;border-radius:20px;background:#faa046;line-height:26px;color:#fff;font-size:14px}
+.manageBtn:hover{background:#faac5f;color:#fff;}
+.funclistul{margin-top:20px}
+.funclistul li{min-height:41px;overflow:hidden;position: relative;margin: 20px}
+.funclistul li span{display:inline-block;margin: 11px;float:left}
+.funclistul li a{text-decoration: none;/*去下划线*!*/display:block;width:100px;margin-left:10px;float:left;min-height:40px;font-size:14px;color:#4c4c4c}
+.funclistul li a:hover{color:#0099ff;}
+.mainright-rightF{width: 70%;float: left}

@@ -1,0 +1,270 @@
+.studentdetailwork-div clearfloat{
+    background: #b2e0ff;
+}
+.doexam-banner {
+    height: 60px;
+    width: 100%;
+    background: #33354b;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+.doexam-banner .exam-width {
+    width: 1200px;
+    margin: 0 auto;
+    height: 60px;
+    clear: both;
+}
+.doexam-banner .exam-width .back-exams {
+    height: 60px;
+    width: 540px;
+    float: left;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+    line-height: 60px;
+}
+.doexam-banner .exam-width .myExam {
+    color: #fff;
+    font-size: 22px;
+    height: 60px;
+    line-height: 60px;
+    float: left;
+    width: 100px;
+}
+.doexam-banner .exam-width .back-exams .iconfont {
+    font-size: 14px;
+    padding-right: 5px;
+}
+.studentdetailwork-div {
+    margin: auto;
+    position: relative;
+}
+.clearfloat {
+    zoom: 1;
+}
+blockquote, body, button, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, i, input, legend, li, ol, p, pre, span, td, textarea, th, ul {
+    font-family: sans-serif;
+    outline: none;
+}
+* {
+    margin: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.clearfloat:after, .clearfloat:before {
+    content: "";
+    display: table;
+}
+.clearfloat:after {
+    clear: both;
+    overflow: hidden;
+}
+.clearfloat:after, .clearfloat:before {
+    content: "";
+    display: table;
+}
+.doexam-div-wrap {
+    height: auto;
+    min-height: 326px;
+}
+blockquote, body, button, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, i, input, legend, li, ol, p, pre, span, td, textarea, th, ul {
+    font-family: sans-serif;
+    outline: none;
+}
+* {
+    margin: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.doexam-div[data-v-fa9978ec] {
+    margin: 83px auto 0 !important;
+}
+.doexam-div {
+    width: 1200px;
+    background: #fff;
+    padding: 30px 0;
+    margin: 76px auto 30px;
+}
+.examTitleBg {
+    width: 1151px;
+    height: auto;
+    overflow: hidden;
+    margin: 0 auto 0 30px;
+}
+.examTitleBg .title {
+    max-height: 64px;
+    font-size: 22px;
+    color: #3d4059;
+    overflow: hidden;
+    margin-bottom: 24px;
+}
+.examTitleBg .examTime {
+    font-size: 14px;
+    color: #9798a9;
+    padding-bottom: 10px;
+}
+.examTitleBg .examScore, .examTitleBg .timeLength {
+    color: #9798a9;
+    font-size: 14px;
+    float: left;
+}
+.examTitleBg .examScore {
+    padding-right: 30px;
+}
+.examTitleBg .examScore, .examTitleBg .timeLength {
+    color: #9798a9;
+    font-size: 14px;
+    float: left;
+}
+.questionlistall-div[data-v-fa9978ec] {
+    margin: 20px auto 0 !important;
+}
+.studentdetailwork-div .questionlistall-div {
+    width: 1200px;
+    position: relative;
+    margin: 0 auto;
+}
+.clearfloat {
+    zoom: 1;
+}
+.Submitjobstatus-div[data-v-fa9978ec] {
+    padding: 0;
+}
+.Submitjobstatus-div .status-div[data-v-fa9978ec] {
+    padding-bottom: 35px;
+    margin-left: 40px;
+    text-align: left;
+}
+.status-div {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    padding-top: 35px;
+}
+.Submitjobstatus-div .status-div .markingProgress[data-v-fa9978ec] {
+    cursor: pointer;
+    height: 41px;
+    line-height: 41px;
+}
+.Submitjobstatus-div .status-div .markingProgress .progress[data-v-fa9978ec] {
+    font-size: 18px;
+    color: #3d4059;
+    width: 107px;
+    display: block;
+    float: left;
+}
+
+span {
+    outline: none;
+}
+.Submitjobstatus-div {
+    width: 1151px;
+    height: auto;
+    overflow: hidden;
+    background: #f5fcf9;
+    margin: 25px auto 0;
+    padding: 0 0 30px;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l {
+    background: #fff;
+    border-radius: 5px;
+    position: relative;
+    z-index: 3;
+    margin-bottom: 35px;
+    width: 1200px;
+    padding-bottom: 25px;
+}
+.fl {
+    float: left;
+}
+.Classificationquestionall-box {
+    margin-bottom: 45px;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .subjecttit {
+    font-size: 18px;
+    color: #3d4059;
+    padding: 30px 30px 20px;
+    border-bottom: 1px solid #e8e8e9;
+}
+span {
+    outline: none;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .Classificationquestionall-div:last-child {
+    border-bottom: 0;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .Classificationquestionall-div {
+    border-bottom: 1px solid #e8e8e9;
+    margin: 20px 30px;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .Multiplechoicescores-p {
+    margin: 25px 0 0;
+    font-size: 16px;
+    color: #3d4059;
+    line-height: 20px;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .subjecttype-div {
+    margin-top: 30px;
+}
+.clearfloat {
+    zoom: 1;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .subjecttype-div .subjectnumber-span {
+    font-size: 16px;
+    color: #3d4059;
+}
+/*选项*/
+.studentdetailwork-div .questionlistall-div .questionlistall-l .subjecttype-div .subjecttype-r .TitleOptions-div {
+    margin-top: 20px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.studentdetailwork-div .questionlistall-div .questionlistall-l .subjecttype-div .subjecttype-r .TitleOptions-div ul li {
+    margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+.el-radio:last-child {
+    margin-right: 0;
+}
+.el-radio {
+    color: #606266;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 30px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.studentdetailwork-div .my-radioNew .el-checkbox__input, .studentdetailwork-div .my-radioNew .el-radio__input {
+    cursor: default;
+}
+.studentdetailwork-div .el-radio__input {
+    float: left;
+    margin-right: 5px;
+}
+.el-radio__input {
+    cursor: pointer;
+    vertical-align: middle;
+}
+.el-radio, .el-radio__inner, .el-radio__input {
+    position: relative;
+    display: inline-block;
+}
+.el-radio, .el-radio__input {
+    white-space: nowrap;
+    line-height: 1;
+    outline: 0;
+}
+span {
+    outline: none;
+}
